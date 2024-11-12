@@ -6,5 +6,3 @@
 - 💭 I am interested in learning more about ethical AI and making data more accessible
 - 😄 Pronouns: She/Her/Hers
 
-
-#[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpliego)](https://github.com/anuraghazra/github-readme-stats)
