@@ -1,4 +1,4 @@
-## Hi, I'm Vanessa 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5d1539&width=450&height=80&lines=Hi,+I'm+Vanessa!)](https://git.io/typing-svg)
 
 
 - 👩🏻‍💻 Current senior at Smith College majoring in Statistical and Data Sciences
